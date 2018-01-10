@@ -1,0 +1,1 @@
+      $(document).ready(function () {        $('#rock').plaxify({"xRange":20,"yRange":0})        $('#rock1').plaxify({"xRange":30,"yRange":0})        $('#textBoxWrap').plaxify({"xRange":40,"yRange":0})		 $('#woman').plaxify({"xRange":50,"yRange":0})		 $('#eyes').plaxify({"xRange":10,"yRange":0})        $.plax.enable({ "activityTarget": $('#mainFeatureWrap')})      })
